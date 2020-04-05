@@ -152,7 +152,7 @@ class KdMfiApp {
         $base = plugin_basename( KDMFI_PLUGIN_FILE );
 
         if( $base == $file ) {
-            $links[] = '<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QTM2NGDLKR9TE" target="_blank">Donate</a>';
+//            $links[] = '<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QTM2NGDLKR9TE" target="_blank">Donate</a>';
         }
 
         return $links;

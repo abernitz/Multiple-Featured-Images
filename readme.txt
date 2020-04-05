@@ -1,10 +1,10 @@
 === Multiple Featured Images ===
-Contributors: marcuskober
+Contributors: marcuskober, abernitz
 Tags: post thumbnail, featured image, custom post type, multiple featured images, multiple featured image, woocommerce, woo-commerce
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QTM2NGDLKR9TE
 Requires at least: 3.5
 Requires PHP: 5.3
-Tested up to: 4.9.4
+Tested up to: 5.4
 Stable tag: trunk
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl.html

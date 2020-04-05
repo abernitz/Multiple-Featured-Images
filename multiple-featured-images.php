@@ -2,15 +2,16 @@
 /*
 Plugin Name: Multiple Featured Images
 Description: Enables multiple featured images for all post types. Comes with a widget for displaying the featured images.
-Version: 0.5.0
-Author: Marcus Kober
-Author URI: http://www.koeln-dialog.de/
+Version: 0.5.1
+Author: Alexander Bernitz
+Author URI: https://ferndale-design.com/abernitz
 License: GPL2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: multiple-featured-images
 Domain Path: /languages
 
 Copyright 2016 Marcus Kober (m.kober@koeln-dialog.de)
+Copyright 2020 Alexander Bernitz (abernitz@yahoo.de)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
